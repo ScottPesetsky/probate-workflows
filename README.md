@@ -1,3 +1,5 @@
+![](probate.dot.png)
+
 probate-workflows
 =================
 
